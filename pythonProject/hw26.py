@@ -1,5 +1,5 @@
-import re
-
+# import re
+print('asdasdasdasd')
 #
 # def word_search(string):
 #     word = re.search((r'[а-яА-ЯёЁ]'), 'вас может возникнуть необходимость обозначить набор, в который входят буквы',
@@ -9,9 +9,9 @@ import re
 
 
 # def abbreviations():
-abb = re.findall('r\w[А-Я],', 'Это курс информатики соответствует ФГОС и ПООП это подтверждено ФГУ ФНЦ НИИСИ РАН')
-
-print(abb)
+# abb = re.findall('r\w[А-Я],', 'Это курс информатики соответствует ФГОС и ПООП это подтверждено ФГУ ФНЦ НИИСИ РАН')
+#
+# print(abb)
 
 # import re
 #
